@@ -1,0 +1,72 @@
+body {
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+background-color: #f4f1ff;
+}
+
+h1 {
+    color:purple;
+    font-size: 48px;
+    text-align: center;
+}
+
+h2 {
+    color: teal;
+}
+
+footer {
+    text-align:center;
+    font-size: 14px;
+}
+
+.tagline {
+    color: navy;
+    text-align: center;
+}
+
+#top-banner {
+    background-color:gold;
+}
+
+.card {
+    background-color:white;
+}
+
+#join {
+    background-color: #e0f7fa;
+}
+
+.note {
+    opacity: 0.6;
+}
+
+.button {
+    background-color: orange;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+h1, h2, h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li.highlight {
+    color:crimson;
+    font-weight: bold;
+}
+
+.card.featured {
+    background-color: lightpink;
+}
+
+nav.menu {
+    background-color: navy;
+}
+
+#about, #events, #projects, #join {
+    color:white;
+    font-size: 20px;
+}
+
+.note.special {
+    color:green;
+}
